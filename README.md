@@ -19,7 +19,7 @@ Git, GitHub, RESTful APIs, Firebase, Vite, JSON, Visual Studio Code, Figma
 Responsive Web Design, Mobile-First Design, Cross-Browser Compatibility, DOM Manipulation, Debugging, Version Control, Agile Development, UI/UX Principles
 
 **Programming Fundamentals:**  
-Object-Oriented Programming (OOP), Data Structures & Algorithms (90+ LeetCode problems)
+Object-Oriented Programming (OOP), Data Structures & Algorithms (110+ LeetCode problems)
 
 
 ## 💼 Experience
