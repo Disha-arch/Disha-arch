@@ -10,16 +10,16 @@ Detail-oriented and passionate Computer Science student seeking a Software Devel
 ## 🛠️ Technical Skills
 
 **Frontend Development:**  
-React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS, React Router, Redux Toolkit, React Hooks
+React.js, JavaScript (ES6+), HTML5, CSS3, React Router, Redux Toolkit, React Hooks
 
 **Tools & Platforms:**  
-Git, GitHub, RESTful APIs, Firebase, Vite, JSON, Visual Studio Code, Figma
+Git, GitHub, RESTful APIs, Firebase, Vite, JSON, Visual Studio Code
 
 **Best Practices:**  
 Responsive Web Design, Mobile-First Design, Cross-Browser Compatibility, DOM Manipulation, Debugging, Version Control, Agile Development, UI/UX Principles
 
 **Programming Fundamentals:**  
-Object-Oriented Programming (OOP), Data Structures & Algorithms (110+ LeetCode problems)
+Object-Oriented Programming (OOP), Data Structures & Algorithms (120+ LeetCode problems)
 
 
 ## 💼 Experience
